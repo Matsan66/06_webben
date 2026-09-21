@@ -28,3 +28,23 @@ Här nedan presenteras en översikt över statusen på lösande av uppgfterna.
 Ok
 
 ### 1d Hitta så många fel som möjligt i följande HTML.
+```html
+<main>
+    <section>
+        <h1>Find the error</h1>
+        <p>This is an example of an HTML file. It contains several errors.</p>
+        <img src="bild.jpg" alt="Let's show a nice image.">
+        <p>Can you find them all?</p>
+    </section>
+</main>
+```
+
+## 2️⃣ Öva på HTML
+
+Mitt resultat:
+
+![Ugglan](images/ugglan.png)
+
+Länk till min kod:
+
+<a href="ugglan/"><strong>📚 Biblioteket Ugglan</strong></a>

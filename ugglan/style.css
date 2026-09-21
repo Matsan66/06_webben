@@ -1,0 +1,11 @@
+.main-nav {
+    display: flex;
+    gap: 20px;
+    margin: 15px 0;
+}
+
+button {
+    background-color: rgb(233, 233, 233);
+    color: black;
+    padding: 5px 20px;
+}
