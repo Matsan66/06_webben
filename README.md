@@ -41,10 +41,14 @@ Ok
 
 ## 2️⃣ Öva på HTML
 
+1. Bygg en webbsida för biblioteket ugglan  
+
 Mitt resultat:
 
 ![Ugglan](images/ugglan.png)
 
-Länk till min kod:
+Länk till hemsidan byggd på min kod:
 
-<a href="ugglan/"><strong>📚 Biblioteket Ugglan</strong></a>
+<a href="https://matsan66.github.io/06_webben/ugglan/">
+    <strong>📚 Biblioteket Ugglan</strong>
+</a>
