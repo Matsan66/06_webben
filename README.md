@@ -1,0 +1,30 @@
+## 📊 Status Veckouppgift 6 Webben
+
+
+Här nedan presenteras en översikt över statusen på lösande av uppgfterna.
+
+| Uppgift                 | Status |
+|:------------------------|:------:|
+| 1. Diskutera i grupp  |   🟢   |
+| 2. Öva på HTML        |   🟡   |
+| 3. Gå en kurs         |   🔴   |
+| 4. Extra övningar     |   🔴   |
+
+
+## 1️⃣ Diskutera i grupp
+
+### 1a Vilka sorters HTML-element kan du se på w3schools-sidan?
+
+```html
+<html> <head> <title> <body> <header> <main> <div> <a> <img> <nav> <button> <style> <link> <script> <h1> <h2> <p>   
+```
+
+### 1b Vilka sorters element finns det på wikipedia-sidan om Thutmose II?
+```html
+<html> <head> <title> <body> <header> <main> <div> <a> <img> <figure> <nav> <button> <style> <link> <aside> <span> <script> <h1> <h2> <h3 ><p> <ul> <li> <section> <form> <input> <label> <table> <tbody> <tr> <td>  
+```
+
+### 1c Koden för webbsidan har råkat blandas.
+Ok
+
+### 1d Hitta så många fel som möjligt i följande HTML.
