@@ -41,7 +41,7 @@ Ok
 
 ## 2️⃣ Öva på HTML
 
-1. Bygg en webbsida för biblioteket ugglan  
+### 1. Bygg en webbsida för biblioteket ugglan  
 
 Mitt resultat:
 
@@ -52,3 +52,13 @@ Länk till hemsidan byggd på min kod:
 <a href="https://matsan66.github.io/06_webben/ugglan/">
     <strong>📚 Biblioteket Ugglan</strong>
 </a>
+<hr>
+
+### 2. Bygg en webbsida som innehåller ett recept
+
+Länk till hemsidan byggd på min kod:
+
+<a href="https://matsan66.github.io/06_webben/recept/">
+    <strong>📚 Godaste lyxpannkakor</strong>
+</a>
+<hr>
