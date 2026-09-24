@@ -6,8 +6,8 @@ Här nedan presenteras en översikt över statusen på lösande av uppgfterna.
 | Uppgift                 | Status |
 |:------------------------|:------:|
 | 1. Diskutera i grupp  |   🟢   |
-| 2. Öva på HTML        |   🟡   |
-| 3. Gå en kurs         |   🔴   |
+| 2. Öva på HTML        |   🟢   |
+| 3. Gå en kurs         |   🟢   |
 | 4. Extra övningar     |   🔴   |
 
 
